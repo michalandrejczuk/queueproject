@@ -22,4 +22,10 @@ The operations provided by the program include:
 
 To run the application, clone the repository and execute the main class in your Java IDE or use the command line.
 
+## Cloning the repository
 
+To clone this repository to your local machine, use the following commands:
+
+```bash
+https://github.com/michalandrejczuk/queueproject.git
+cd queueproject
